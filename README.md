@@ -1,4 +1,4 @@
-# Smart Door Lock System (Arduino + Proteus)
+## Smart Door Lock System (Arduino + Proteus)
 
 # Overview
 
