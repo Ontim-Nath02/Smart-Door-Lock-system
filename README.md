@@ -51,11 +51,12 @@ This project presents a password-based smart door locking system using Arduino U
 
 ## 📐 Circuit Diagram
 
+<img width="838" height="588" alt="CKT_Diagram" src="https://github.com/user-attachments/assets/aaf633a7-dd79-4981-91e4-265c9ab28316" />
 
 
-## 📸 Simulation Preview
+## Simulation Preview
 
-![Simulation](proteus/simulation.png)
+<img width="510" height="348" alt="Simulation" src="https://github.com/user-attachments/assets/5f881d15-6fca-4f15-944b-b41f52858ceb" />
 
 
 
