@@ -5,7 +5,7 @@
 This project presents a password-based smart door locking system using Arduino UNO, simulated in Proteus 8. The system enhances security by allowing access only when the correct password is entered through a keypad.
 
 
-#⚙️ Components Used
+# Components Used
 
 * Arduino UNO
 * 4×4 Matrix Keypad
@@ -18,7 +18,7 @@ This project presents a password-based smart door locking system using Arduino U
 
 
 
-#Features
+# Features
 
 * Password-based authentication system
 * Hidden password input (displayed as `*`)
@@ -29,7 +29,7 @@ This project presents a password-based smart door locking system using Arduino U
 * Automatic door locking after access
 
 
-#Working Principle
+# Working Principle
 
 1. The user enters a 4-digit password using the keypad
 2. The input is hidden for security purposes
@@ -49,7 +49,7 @@ This project presents a password-based smart door locking system using Arduino U
    * The system temporarily locks
 
 
-#Circuit Diagram
+# Circuit Diagram
 
 <img width="838" height="588" alt="CKT_Diagram" src="https://github.com/user-attachments/assets/aaf633a7-dd79-4981-91e4-265c9ab28316" />
 
